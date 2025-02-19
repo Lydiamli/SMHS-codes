@@ -1,3 +1,7 @@
+# data is available through:
+https://ontariochildhealthstudy.ca/smhs/research/data-access/
+
+
 # for .R files, the following version of R and versions of packages were used 
 R version 4.3.3 (2024-02-29)
 attached packages:
