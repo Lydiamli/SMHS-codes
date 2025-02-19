@@ -1,0 +1,8 @@
+# for .R files, the following version of R and versions of packages were used 
+R version 4.3.3 (2024-02-29)
+attached packages:
+ [1] grf_2.3.2         lubridate_1.9.3   forcats_1.0.0     stringr_1.5.1    
+ [5] dplyr_1.1.4       purrr_1.0.2       readr_2.1.5       tidyr_1.3.1      
+ [9] tibble_3.2.1      tidyverse_2.0.0   glue_1.7.0        tiff_0.1-12      
+[13] ggplot2_3.5.0     data.table_1.15.2 magick_2.8.3      ggplotify_0.1.2  
+[17] lattice_0.22-5    caret_6.0-94  
